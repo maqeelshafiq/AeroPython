@@ -1,3 +1,6 @@
+Learner: Muhammad Aqeel
+Course: GW: MAE6226 Aerodynamics / Hydrodynamics
+Instructor: Prof. Lorena Barba
 
 ## Aerodynamics-Hydrodynamics with Python
 
